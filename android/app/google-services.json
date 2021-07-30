@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700190932958",
+    "project_id": "chatnotification-d3122",
+    "storage_bucket": "chatnotification-d3122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700190932958:android:17dcb8f4a5c405ae24674f",
+        "android_client_info": {
+          "package_name": "com.uniteuilab.theadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700190932958-1fv6gs66afn47v1clgic807jhjnasr6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniteuilab.theadvisor",
+            "certificate_hash": "9f665b2734e106c05e5eb75ccda1d4487d74c6ac"
+          }
+        },
+        {
+          "client_id": "700190932958-55i3vsdp95eorhp5573a22bomk0060fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniteuilab.theadvisor",
+            "certificate_hash": "617d755077d0a228024ca90c7bd9e4812a7660ab"
+          }
+        },
+        {
+          "client_id": "700190932958-rj112lnl25vljneo2rt8cg5ssbrth3kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gOTMY6k1_anUMLi_0K5wTcoWjqmdAd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700190932958-rj112lnl25vljneo2rt8cg5ssbrth3kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

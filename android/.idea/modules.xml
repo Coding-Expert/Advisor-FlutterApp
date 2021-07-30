@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1685022158/android.background_fetch.iml" filepath="$PROJECT_DIR$/.idea/modules/-1685022158/android.background_fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1808877850/android.call_log.iml" filepath="$PROJECT_DIR$/.idea/modules/-1808877850/android.call_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/218901629/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/218901629/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2139530737/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-2139530737/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-980237228/android.firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-980237228/android.firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1887594381/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/1887594381/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1072675264/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1072675264/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/823540373/android.flutter_sms_inbox.iml" filepath="$PROJECT_DIR$/.idea/modules/823540373/android.flutter_sms_inbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-952629618/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-952629618/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-738741490/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-738741490/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/690680633/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/690680633/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1242623759/android.sms.iml" filepath="$PROJECT_DIR$/.idea/modules/1242623759/android.sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1337106182/android.system_alert_window.iml" filepath="$PROJECT_DIR$/.idea/modules/-1337106182/android.system_alert_window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-749025835/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-749025835/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1255595278/android.workmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/-1255595278/android.workmanager.iml" />
+    </modules>
+  </component>
+</project>
